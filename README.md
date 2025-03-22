@@ -1,10 +1,14 @@
 ### About
 
-Professional with more than 17 years of experience on a wide range of technical skills from electronics engineering, maritime navigation electronics systems, satellite and radio communications systems and the complete Software Development Life Cycle applying world class standards and best practices including expertise as Cloud Practitioner and Solutions Architect with a certification from Amazon Web Services. I have served as manager of technical support teams, software engineering teams, and customer success teams for industries like food producers, supply chain/distributors, banking, and digital transformation for the public sector (_Digital Government_) managing a team of 35 professionals.
+I am passionate about enhancing human processes through mindful technology implementation, always seeking ways to maximize efficiency, innovation, and value creation.
 
-Throughout my career I have developed several hardware and software products starting from business concepts and working on all intermediate stages of development until products and projects were delivered to end users, and post delivery operational support.
+Experienced Technical Project Manager, Cloud Solutions Architect (AWS Certified), and Electronics Engineer with over 18 years of expertise spanning software development, IT infrastructure, cloud computing, and maritime electronics. I specialize in leading end-to-end Software Development Life Cycle (SDLC) processes, implementing world-class standards and best practices to drive innovation and operational efficiency.
 
-I am passionate about enhancing and extending human processes through mindful implementation of technological tools; always in the lookout for ways to be more effective in the addition of value to everyone involved in my personal and professional life.  I live in Panama City, Republic of Panama; with my wife Maryu and our children, Stella and Leonardo.
+With a strong foundation in both hardware and software development, I have successfully designed, built, and launched multiple digital and embedded solutions —from initial business concepts to full-scale deployment and post-delivery support. 
+
+Beyond technical proficiency, I have a proven track record in project and team management, having led engineering, customer success, and technical support teams across industries such as food production, supply chain, banking, and digital transformation for the public sector. I have managed teams of up to 35 professionals, focusing on fostering a collaborative, high-performance culture while ensuring alignment with agile methodologies (Scrum) and ITILv4 best practices.
+
+As Field Service Technical Manager at Alliance Nav, I am a proud member of the Maritime Field Service Operations Team, collaborating closely with our customers to ensure the seamless installation, commissioning, maintenance, and reliable performance of critical navigation, communication, and maritime electronic systems.
 
 ### Keywords
 AWS Certified Solutions Architect Associate, devops implementer, electronics and embedded systems developer, electronics and telecommunications engineer, maritime electronics, maritime navigation systems, Satellite and Radio Communications, Cloud professional, land to cloud workloads migrations, software development, software quality assurance, business processes, management of technical teams, technical projects management, java/spring boot development, automation of processes, competency-oriented, achievement-oriented, people-oriented.
